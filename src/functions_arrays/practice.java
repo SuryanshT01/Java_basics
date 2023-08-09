@@ -1,3 +1,5 @@
+package functions_arrays;
+
 import java.util.Scanner;
 
 public class practice {
