@@ -1,3 +1,5 @@
+package basics_loop_patterns;
+
 public class bitwise_operators {
     public static void main(String[] args){
         int a=10;
