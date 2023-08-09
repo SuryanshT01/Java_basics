@@ -1,3 +1,5 @@
+package basics_loop_patterns;
+
 import java.util.Scanner;
 
 public class pattern_isoceles {
