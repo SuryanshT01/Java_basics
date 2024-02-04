@@ -7,6 +7,6 @@ public class practice {
         int n;
         Scanner s = new Scanner(System.in);
         n = s.nextInt();
-        System.out.println(n + "this is practice code");
+        System.out.println(n + "updated practice code");
     }
 }
