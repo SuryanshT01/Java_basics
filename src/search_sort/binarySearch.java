@@ -33,6 +33,7 @@ public class binarySearch {
         System.out.println();
         System.out.print("Enter the element to search: ");
         element = s.nextInt();
+        System.out.print("Index of required element : ");
         System.out.print(binarySearch(arr,element));
     }
 
